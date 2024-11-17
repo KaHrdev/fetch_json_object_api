@@ -16,9 +16,8 @@ A short Python script to:
 1. [Requirements](#requirements)  
 2. [Installation](#installation)  
 3. [Usage](#usage)  
-4. [Features](#features)  
-5. [FAQ](#faq)  
-6. [Contact](#contact)  
+4. [Dependencies](#dependencies)  
+6. [Additional Notes](#additional-notes)  
 
 ---
 
